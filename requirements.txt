@@ -1,0 +1,26 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+
+numpy
+scipy
+scikit-learn
+opencv-python
+
+matplotlib
+tqdm
+
+pandas
+pillow
+imageio
+pyyaml
+lmdb
+webdataset
+
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+torchaudio==0.13.1
+tensorboard
+git+https://github.com/openai/CLIP.git
+transformers
+timm
+mmengine
+sentencepiece
